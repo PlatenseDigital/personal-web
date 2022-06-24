@@ -1,0 +1,27 @@
+[
+    {
+        "imgWeb":"../media/camarasiplaplata.com_ (1).webp",
+        "imgMobile":"../media/camarasiplaplata.com_.webp",
+        "link":"http://camarasiplaplata.com",
+        "title":"Camaras IP La Plata",
+        "logo":"../media/camarasiplaplatalogo.webp",
+        "desc": "Web sencilla para empresa de camaras de seguridad. Cuenta con informacion basica, un formulario de contacto con captcha para evitar spam y boton directo a Whatsapp. </br>Este tipo de webs son economicas e ideales para tener presencia online, poder compartir tu negocio y publicar ofertas.</br>Diseñada desde cero en HTML, CSS y PHP"
+    },
+    {
+        "imgWeb":"../media/imgweb.webp",
+        "imgMobile":"../media/apprecetas.webp",
+        "link":"http://platensedigital.sytes.net/recetario",
+        "title":"App recetas",
+        "logo":"../media/recetariologo.webp",
+        "desc": "WebApp de recetas, en ella podes preparar un menú semanal, creandote de forma automatica la lista de compras necesaria. Tambien podes consultar todas las recetas y filtrarlar por etiquetas.<br>Una webapp provee un servicio a tus clientes al cual pueden acceder desde sus computadoras o celulares. Si bien algunas aplicaciones de terceros proveen servicios, ser dueño de tu propia aplicacion te permite personalizar la experiencia y tener control total sobre tu informacion y las de tus clientes. <br>Desarrollado principalmente con React y MongoDB</p>"
+    },
+    {
+        "imgWeb":"../media/imgweb.webp",
+        "imgMobile":"../media/imgmobile.webp",
+        "link":"",
+        "title":"Proyecto en proceso",
+        "logo":"../media/ccartlogo.webp",
+        "desc": "Este proyecto aun está en producción"
+    }
+    
+]
